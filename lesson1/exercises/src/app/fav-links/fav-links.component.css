@@ -1,0 +1,12 @@
+h3 {
+    text-align: center;
+}
+
+#allLinks {
+    display:block;
+    text-align:center;
+}
+
+div {
+    border: 1px solid black;
+}

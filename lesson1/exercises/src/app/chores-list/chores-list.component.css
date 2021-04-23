@@ -1,11 +1,12 @@
 .chores {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.3 vw;
-    color: red;
+    color: navy;
 }
 
 h3 {
     text-decoration: underline;
+    text-align: center;
 }
 
 ul {
