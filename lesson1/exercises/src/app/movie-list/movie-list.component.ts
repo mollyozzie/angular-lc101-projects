@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
    styleUrls: ['./movie-list.component.css']
 })
 export class MovieListComponent implements OnInit {
-   movies = ['The Manchurian Candidate', 'Oceans 8'];
+   movies = ['The Lost Boys', 'Aliens', 'The Blues Brothers', 'The Princess Bride'];
 
    constructor() { }
 
